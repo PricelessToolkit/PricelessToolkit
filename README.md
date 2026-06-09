@@ -1,7 +1,15 @@
-# PricelessToolkit
-
 ## More repositories
 
-| | | |
-|---|---|---|
-| [![HomeLab](https://github-readme-stats.vercel.app/api/pin/?username=PricelessToolkit&repo=HomeLab)](https://github.com/PricelessToolkit/HomeLab)<br><sub>Homelab setup, services, and infrastructure notes.</sub> | [![HA-Add-ons](https://github-readme-stats.vercel.app/api/pin/?username=PricelessToolkit&repo=HA-Add-ons)](https://github.com/PricelessToolkit/HA-Add-ons)<br><sub>Home Assistant add-ons and related tooling.</sub> | |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/PricelessToolkit/HomeLab"><strong>HomeLab</strong></a><br />
+      <sub>Homelab setup, services, and infrastructure notes.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/PricelessToolkit/HA-Add-ons"><strong>HA-Add-ons</strong></a><br />
+      <sub>Home Assistant add-ons and related tooling.</sub>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
