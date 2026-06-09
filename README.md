@@ -6,7 +6,7 @@
       <a href="https://github.com/PricelessToolkit/HomeLab"><strong>HomeLab</strong></a><br />
       <sub>Homelab setup, services, and infrastructure notes.</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/PricelessToolkit/HA-Add-ons"><strong>HA-Add-ons</strong></a><br />
       <sub>Home Assistant add-ons and related tooling.</sub>
     </td>
