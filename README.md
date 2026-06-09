@@ -1,3 +1,4 @@
+🤗 Please consider subscribing to my YouTube channel. Your subscription goes a long way toward supporting my work.
 <div align="center">
 <table>
   <tr>
@@ -20,7 +21,7 @@
 </table>
 </div>
 
-## More repositories
+### More repositories
 
 <table>
   <tr>
