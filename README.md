@@ -2,17 +2,17 @@
   <tr>
     <td width="33.33%" align="center">
       <a href="https://www.pricelesstoolkit.com">
-        <img src="https://www.pricelesstoolkit.com/favicon.ico" width="24" height="24" />
-        <br />
-        <strong>Shop</strong>
+        <img src="https://img.shields.io/badge/%F0%9F%9B%92-Shop-2ea44f?style=for-the-badge" />
       </a>
     </td>
     <td width="33.33%" align="center">
-      🤗 Please consider subscribing to my <a href="https://www.youtube.com/@PricelessToolkit"><strong>YouTube channel</strong></a>.
+      <a href="https://www.youtube.com/@PricelessToolkit">
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
     </td>
     <td width="33.33%" align="center">
       <a href="https://ko-fi.com/U6U2QLAF8">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
+        <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
       </a>
     </td>
   </tr>
