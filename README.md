@@ -13,7 +13,7 @@
     </td>
     <td width="33.33%" align="center">
       <a href="https://ko-fi.com/U6U2QLAF8">
-        <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-8B4513?style=for-the-badge&logo=kofi&logoColor=white" />
       </a>
     </td>
   </tr>
