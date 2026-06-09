@@ -1,4 +1,5 @@
-<table width="100%">
+<div align="center">
+<table>
   <tr>
     <td width="33.33%" align="center">
       <a href="https://www.pricelesstoolkit.com">
@@ -17,6 +18,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## More repositories
 
