@@ -1,3 +1,23 @@
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center">
+      <a href="https://www.pricelesstoolkit.com">
+        <img src="https://www.pricelesstoolkit.com/favicon.ico" width="24" height="24" />
+        <br />
+        <strong>Shop</strong>
+      </a>
+    </td>
+    <td width="33.33%" align="center">
+      🤗 Please consider subscribing to my <a href="https://www.youtube.com/@PricelessToolkit"><strong>YouTube channel</strong></a>.
+    </td>
+    <td width="33.33%" align="center">
+      <a href="https://ko-fi.com/U6U2QLAF8">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## More repositories
 
 <table>
