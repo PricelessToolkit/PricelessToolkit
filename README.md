@@ -10,6 +10,7 @@
       <a href="https://github.com/PricelessToolkit/HA-Add-ons"><strong>HA-Add-ons</strong></a><br />
       <sub>Home Assistant add-ons and related tooling.</sub>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="25%" valign="top"></td>
+    <td width="25%" valign="top"></td>
   </tr>
 </table>
