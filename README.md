@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/PricelessToolkit/HomeLab"><strong>HomeLab</strong></a><br />
       <sub>Homelab setup, services, and infrastructure notes.</sub>
     </td>
