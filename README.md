@@ -8,7 +8,7 @@
     </td>
     <td width="33.33%" align="center">
       <a href="https://www.youtube.com/@PricelessToolkit">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-white?style=for-the-badge&logo=youtube&logoColor=FF0000" />
       </a>
     </td>
     <td width="33.33%" align="center">
